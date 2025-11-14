@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="center">- Sempre me enteressei por eletrônica. Nunca imaginei que chegaria a trabalhar com isso, mas fico feliz por estar aqui.<br>- Estou cursando a faculdade de ADS.</p>
+<p align="center">- Sempre me enteressei por tecnologia. Nunca imaginei que chegaria a trabalhar com isso, mas fico feliz por estar aqui.<br>- Estou cursando a faculdade de ADS.</p>
 
 ###
 
