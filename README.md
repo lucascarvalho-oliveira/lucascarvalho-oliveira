@@ -1,4 +1,4 @@
-<h2 align="center">OLA! MEU NOME É LUCAS CARVALHO</h2>
+<h1 align="center">OLA! MEU NOME É LUCAS CARVALHO</h1>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="center">SOBRE MIM</h3>
+<h2 align="center">SOBRE MIM</h2>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="center">CONTATO</h3>
+<h2 align="center">CONTATO</h2>
 
 ###
 
@@ -58,7 +58,7 @@
 
 ###
 
-<h3 align="center">ESTATÍSTICAS</h3>
+<h2 align="center">ESTATÍSTICAS</h2>
 
 ###
 
