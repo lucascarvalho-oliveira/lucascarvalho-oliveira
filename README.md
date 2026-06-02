@@ -63,6 +63,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucascarvalho-oliveira&show_icons=true&theme=dark" height="150" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucascarvalho-oliveira&theme=dark" height="150" alt="streak graph" />
+  <img src="https://raw.githubusercontent.com/lucascarvalho-oliveira/lucascarvalho-oliveira/stats-output/stats.svg" height="130" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/lucascarvalho-oliveira/lucascarvalho-oliveira/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
+
+###
