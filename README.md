@@ -63,6 +63,6 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO_CORRETO_DO_GITHUB/SEU_USUARIO_CORRETO_DO_GITHUB/stats-output/stats.svg" height="130" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO_CORRETO_DO_GITHUB/SEU_USUARIO_CORRETO_DO_GITHUB/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=lucascarvalho-oliveira&show_icons=true&theme=dark" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascarvalho-oliveira&layout=compact&theme=dark" height="150" alt="languages graph" />
 </div>
