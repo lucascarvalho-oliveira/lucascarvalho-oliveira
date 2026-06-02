@@ -2,15 +2,15 @@
 
 ###
 
-<p align="left">💻Estudante de Análise e Desenvolvimento de Sistema</p>
+<p align="left">💻 Estudante de Análise e Desenvolvimento de Sistemas</p>
 
 ###
 
-<p align="left">🪶Desenvolvedor bac-kend em formação</p>
+<p align="left">🪶 Desenvolvedor back-end em formação</p>
 
 ###
 
-<p align="left">📍Patrocinio -MG</p>
+<p align="left">📍 Patrocínio - MG</p>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">studante de Análise e Desenvolvimento de Sistemas (ADS), com foco em desenvolvimento backend e engenharia de software. Gosto de transformar conhecimento em projetos práticos e de buscar formas mais eficientes de desenvolver soluções. Estou sempre em busca de evolução técnica, com atenção à qualidade do código, boas práticas.</p>
+<p align="left">Estudante de Análise e Desenvolvimento de Sistemas (ADS), com foco em desenvolvimento backend e engenharia de software. Gosto de transformar conhecimento em projetos práticos e de buscar formas mais eficientes de desenvolver soluções. Estou sempre em busca de evolução técnica, com atenção à qualidade do código, boas práticas.</p>
 
 ###
 
@@ -64,5 +64,5 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lucascarvalho-oliveira&show_icons=true&theme=dark" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascarvalho-oliveira&layout=compact&theme=dark" height="150" alt="languages graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucascarvalho-oliveira&theme=dark" height="150" alt="streak graph" />
 </div>
