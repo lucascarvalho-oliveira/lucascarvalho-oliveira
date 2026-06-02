@@ -40,7 +40,7 @@
 
 ###
 
-<h3 align="center">LINGUAGENS E TECNOLOGIAS</h3>
+<h2 align="center">LINGUAGENS E TECNOLOGIAS</h2>
 
 ###
 
